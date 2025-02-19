@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theom/Projects/MLOps-Implementation/mlruns/0/c30a0c04cb164d9ba6d79a884c872e1e/artifacts
+end_time: 1739972828614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c30a0c04cb164d9ba6d79a884c872e1e
+run_name: fortunate-bug-742
+run_uuid: c30a0c04cb164d9ba6d79a884c872e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739972819558
+status: 3
+tags: []
+user_id: theom

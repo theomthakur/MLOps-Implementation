@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theom/Projects/MLOps-Implementation/mlruns/0/8302a26b95da48fcb3195d55bb01b719/artifacts
+end_time: 1739972741720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8302a26b95da48fcb3195d55bb01b719
+run_name: loud-worm-706
+run_uuid: 8302a26b95da48fcb3195d55bb01b719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739972732975
+status: 3
+tags: []
+user_id: theom
