@@ -1,1 +1,43 @@
 [2025-02-18 17:43:44,636: INFO: main: Welcome to our custom logging]
+[2025-02-18 18:49:59,960: INFO: common: yaml file: config.yaml loaded successfully]
+[2025-02-18 18:49:59,969: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-18 18:49:59,973: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-18 18:49:59,976: INFO: common: created directory at: artifacts]
+[2025-02-18 18:49:59,978: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-18 18:50:00,579: INFO: 695440343: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7FD2:6A663:201917:23B935:67B51CA9
+Accept-Ranges: bytes
+Date: Tue, 18 Feb 2025 23:50:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ewr-kewr1740058-EWR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1739922602.553781,VS0,VE87
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 24977c953fe1f48482e3b2b0140d40b80a3be7ca
+Expires: Tue, 18 Feb 2025 23:55:01 GMT
+Source-Age: 0
+
+]
+[2025-02-18 19:15:08,422: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-02-18 19:15:08,424: INFO: common: yaml file: config.yaml loaded successfully]
+[2025-02-18 19:15:08,425: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-18 19:15:08,426: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-02-18 19:15:08,428: INFO: common: created directory at: artifacts]
+[2025-02-18 19:15:08,429: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-18 19:15:08,429: INFO: data_ingestion: File aready exists of size: ~ 23 KB]
+[2025-02-18 19:15:08,435: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x=========x]
