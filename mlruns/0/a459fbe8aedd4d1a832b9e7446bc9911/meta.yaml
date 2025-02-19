@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theom/Projects/MLOps-Implementation/mlruns/0/a459fbe8aedd4d1a832b9e7446bc9911/artifacts
+end_time: 1739975963836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a459fbe8aedd4d1a832b9e7446bc9911
+run_name: bouncy-roo-613
+run_uuid: a459fbe8aedd4d1a832b9e7446bc9911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739975962705
+status: 4
+tags: []
+user_id: theom

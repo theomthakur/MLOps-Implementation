@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theom/Projects/MLOps-Implementation/mlruns/0/05ec7c0c97b44900975dc4994dc6637b/artifacts
+end_time: 1739975940971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05ec7c0c97b44900975dc4994dc6637b
+run_name: monumental-ant-617
+run_uuid: 05ec7c0c97b44900975dc4994dc6637b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739975931814
+status: 3
+tags: []
+user_id: theom

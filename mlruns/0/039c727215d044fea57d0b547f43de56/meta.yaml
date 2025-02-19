@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theom/Projects/MLOps-Implementation/mlruns/0/039c727215d044fea57d0b547f43de56/artifacts
+end_time: 1739975826222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 039c727215d044fea57d0b547f43de56
+run_name: upbeat-lark-299
+run_uuid: 039c727215d044fea57d0b547f43de56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739975819430
+status: 3
+tags: []
+user_id: theom
